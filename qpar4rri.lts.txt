@@ -1,0 +1,14 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Assets/PostProcessing.meta
+#	new file:   Assets/UTF_Core.meta
+#	modified:   Assets/UTF_Tests_PostProcessingV2
+#	new file:   Assets/UTF_Tests_PostProcessingV2.meta
+#	modified:   ProjectSettings/ProjectSettings.asset
+#
+
