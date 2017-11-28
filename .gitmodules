@@ -1,12 +1,12 @@
 [submodule "Assets/UTF_Core"]
-	path = Assets/UTF_Core
-	url = git@github.com:Unity-Technologies/UTF_Core
-	branch = master
+    path = Assets/UTF_Core
+    url = https://github.com/Unity-Technologies/UTF_Core.git
+    branch = master
 [submodule "Assets/UTF_Tests_PostProcessingV2"]
-	path = Assets/UTF_Tests_PostProcessingV2
-	url = git@github.com:Unity-Technologies/UTF_Tests_PostProcessingV2
-	branch = master
+    path = Assets/UTF_Tests_PostProcessingV2
+    url = https://github.com/Unity-Technologies/UTF_Tests_PostProcessingV2.git
+    branch = master
 [submodule "Assets/PostProcessing"]
-	path = Assets/PostProcessing
-	url = git@github.com:Unity-Technologies/PostProcessing
-	branch = v2
+    path = Assets/PostProcessing
+    url = https://github.com/Unity-Technologies/PostProcessing.git
+    branch = v2
